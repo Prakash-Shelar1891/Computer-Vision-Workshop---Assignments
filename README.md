@@ -1,2 +1,2 @@
-# Computer-Vision-Workshop---day-1
-Assignment 1
+# Computer-Vision-Workshop---Assignments
+OpenCV workshop by GirlScript India Summit
